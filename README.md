@@ -13,3 +13,5 @@ use ubuntu 18 to write Dockfile, and push to my dockerhub
   >>>4.run docker on local : sudo docker run python-docker
   >>>
   >>>5.see alive docker container : sudo docker ps -a
+  >>>
+  >>>6.stop container : sudo docker stop "container id or names"(use docker ps -a to see)
